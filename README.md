@@ -65,7 +65,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDevOption&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=CodeDevOption&theme=react-dark)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=CodeDevOption&theme=react-dark) -->
 <br>
 
 <p align="center">Wanna Know me More?</p>
